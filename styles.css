@@ -43,17 +43,15 @@ h1 {
 
 .card-1 {
     position: relative;
-    top: 30vh;
+    top: 3vh;
     left: 25vw;
 }
 .card-2{
     position: relative;
-    bottom: 33vh;
+    bottom: 60vh;
     left: 10px;
     height: 50vh;
     width: 20vw;
 }
-.line{
-    color: rgb(175, 178, 178);
-}
+
 /* Your CSS Code here. */
